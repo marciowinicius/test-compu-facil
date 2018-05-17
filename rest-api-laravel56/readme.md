@@ -50,3 +50,7 @@ This API was created in order to further study the API concept with TOKEN access
  
 > 5 - Unit tests
  - Testing is important thing for any application before it’s available for end users. Laravel provides facility for Unit Testing. Sometimes new changes can break systems unexpectedly. Laravel runs many tests to ensure stability of application.
+ 
+ # Print of routes in SWAGGER
+  - Remember that you don't need to use postman to test the routes, just use the SWAGGER.
+  ![image](https://user-images.githubusercontent.com/14933271/40180439-35dbb614-59bd-11e8-8fc7-d120e05ad67f.png)
